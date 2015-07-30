@@ -1,0 +1,5 @@
+service namespace "skillOverviewTool" { 
+
+"sot_schema"."sot.Data::wkActivity"
+
+as "wkActivity" key ("activityStatusID");}

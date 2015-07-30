@@ -1,0 +1,6 @@
+service namespace "skillOverviewTool" { 
+
+
+"sot_schema"."sot.Data::exResult"
+
+as "exResult" key ("trainingStatusID");}

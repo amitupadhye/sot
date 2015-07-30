@@ -1,0 +1,7 @@
+import = [ { 
+				hdbtable = "sot.Data::links";
+				schema = "sot_schema";
+				file = "sot.Data:links.csv"; 
+				header = false;
+				
+		} ];

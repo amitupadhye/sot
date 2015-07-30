@@ -1,0 +1,20 @@
+schema = "sot_schema";
+query = "select
+	 T0.\"name\" \"empName\",
+	 T2.\"name\" \"coachName\",
+	 T1.\"feedbackStatusID\",
+	 T1.\"dateStamp\",
+	 T1.\"task\",
+	 T1.\"Feedback1Rating\",
+	 T1.\"Feedback2Rating\",
+	 T1.\"Feedback3Rating\",
+	 T1.\"Feedback4Rating\",
+	 T1.\"Feedback5Rating\",
+	 T1.\"Feedback6Rating\",
+	 T1.\"Feedback7Rating\",
+	  T1.\"Feedback8Rating\",
+	 T1.\"FeedbackRemark\",
+	 T1.\"iNumber\" \"empiNumber\" 
+from \"sot_schema\".\"sot.Data::employeeFeedback\" T1 
+inner join \"sot_schema\".\"sot.Data::employeeDetails\" T0 on T1.\"iNumber\" = T0.\"iNumber\" 
+inner join \"sot_schema\".\"sot.Data::employeeList\" T2 on T2.\"iNumber\" = T1.\"iNumber\" WITH READ ONLY"; 

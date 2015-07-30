@@ -1,0 +1,7 @@
+schema= "sot_schema";
+start_with= 100;
+maxvalue= 999999999;
+nomaxvalue=false;
+minvalue= 1;
+nominvalue=true;
+cycles= false; 

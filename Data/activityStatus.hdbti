@@ -1,0 +1,7 @@
+import = [ { 
+				hdbtable = "sot.Data::activityStatus";
+				schema = "sot_schema";
+				file = "sot.Data:activityStatus.csv"; 
+				header = false;
+				
+		} ];

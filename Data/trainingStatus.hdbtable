@@ -1,0 +1,10 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "trainingStatusID"; sqlType = INTEGER; nullable = false;comment = "unique identification of training status";},
+					{name = "id"; sqlType = INTEGER; nullable = false;comment = "unique identifier for employee";},
+					{name = "trainingDescription"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "training description";},
+					{name = "trainingScore"; sqlType = INTEGER; nullable = false;comment = "score in the exam";},
+					{name = "examDate"; sqlType = DATE; nullable = false;comment = "date on which the exam was taken";}
+				];
+table.primaryKey.pkcolumns = ["trainingStatusID"];

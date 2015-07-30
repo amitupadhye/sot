@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+		<title>Skill Overview Tool</title>
+		<link rel="shortcut icon" href="images/sap_browser.ico" >
+
+		<script src="/sap/ui5/1/resources/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.ui.commons,sap.ui.ux3,sap.ui.table,sap.ui.table,sap.viz"
+				data-sap-ui-theme="sap_goldreflection">
+		</script>
+		
+		<!-- add sap.ui.table,sap.ui.ux3 and/or other libraries to 'data-sap-ui-libs' if required -->
+ 
+ 	<script>
+				
+				sap.ui.localResources("sot");
+				var view = sap.ui.view({id:"idmainView", viewName:"sot.mainView", type:sap.ui.core.mvc.ViewType.JS});
+				view.placeAt("content");
+
+				// Workaround for the scroll functionality in Chrome Version 33.0.1750.117 
+				if (!!sap.ui.Device.browser.webkit && !document.width) {
+		            jQuery.sap.require("sap.ui.core.ScrollBar");
+		             var fnOrg = sap.ui.core.ScrollBar.prototype.onAfterRendering;
+		             sap.ui.core.ScrollBar.prototype.onAfterRendering = function() {
+		                 document.width = window.outerWidth;
+		                 fnOrg.apply(this, arguments);
+		                 document.width = undefined;
+		             };
+		             
+		        }
+				
+	 
+		</script>
+
+	</head>
+	
+	
+	<body class="sapUiBody" >
+		<div id="content"></div>
+	
+		
+	</body>
+</html>

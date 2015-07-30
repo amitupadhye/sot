@@ -1,0 +1,8 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [
+					{name = "iNumber"; sqlType = NVARCHAR; length = 8; nullable = false;comment = "employee iNumber";},
+					{name = "password"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "employee Password";},
+					{name = "miscellaneous";sqlType = SHORTTEXT; length = 50; nullable = true;comment = "misc";}
+				];
+table.primaryKey.pkcolumns = ["iNumber"];

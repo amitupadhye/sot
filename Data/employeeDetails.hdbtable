@@ -1,0 +1,18 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "id"; sqlType = INTEGER; nullable = false;comment = "unique identifier for an employee";},
+					{name = "iNumber"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "employee iNumber";},
+					{name = "dateStamp"; sqlType = DATE; nullable = false;comment = "date the employee was added to the database";},
+					{name = "name"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "employee name";},			
+					{name = "startDate"; sqlType = DATE; nullable = false;comment = "internship start date at sap ";},
+					{name = "endDate"; sqlType = DATE; nullable = false;comment = "internship end date at sap ";},
+					{name = "knownLanguages"; sqlType = SHORTTEXT; length = 100; nullable = false;comment = "Languages known";},
+					{name = "externalEmail"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "external email address";},
+					{name = "assignedGroup";sqlType = SHORTTEXT; length = 50; nullable = false;comment = "assigned group";},
+					{name = "assignedCoach";sqlType = SHORTTEXT; length = 50; nullable = false;comment = "assignedCoach";},
+					{name = "assignedMentor";sqlType = SHORTTEXT; length = 50; nullable = false;comment = "assignedMentor";},
+					{name = "assignedTeam";sqlType = SHORTTEXT; length = 50; nullable = false;comment = "assigned Team";},
+					{name = "empStatus"; sqlType = SHORTTEXT; length = 3; nullable = false;comment = "employment status";}
+				];
+table.primaryKey.pkcolumns = ["id"];

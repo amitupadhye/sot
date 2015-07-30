@@ -1,0 +1,9 @@
+service namespace "skillOverviewTool" { 
+
+"sot_schema"."sot.Data::feedbackOverview2" 
+
+
+      as "fbOverview" key ("feedbackStatusID");}
+      
+ 
+

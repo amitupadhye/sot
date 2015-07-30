@@ -1,0 +1,9 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "linkID"; sqlType = INTEGER; nullable = false;comment = "unique identification of activity status";},
+					{name = "iNumber"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "employee iNumber";},
+					{name = "linkdesc"; sqlType = SHORTTEXT; length = 100; nullable = false;comment = "linkdescription";},
+					{name = "link"; sqlType = SHORTTEXT; length = 100; nullable = false;comment = "link";}				
+			];
+table.primaryKey.pkcolumns = ["linkID"];

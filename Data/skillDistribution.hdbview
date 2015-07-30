@@ -1,0 +1,7 @@
+schema = "sot_schema";
+query = "select
+	 T1.\"skillsStatusID\",
+	 T0.\"iNumber\",
+	 T1.\"skillID\" 
+from \"sot_schema\".\"sot.Data::employeeDetails\" T0 
+inner join \"sot_schema\".\"sot.Data::employeeSkillsStatus\" T1 on T0.\"id\" = T1.\"id\" WITH READ ONLY";

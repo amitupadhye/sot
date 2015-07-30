@@ -1,0 +1,13 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "activityStatusID"; sqlType = INTEGER; nullable = false;comment = "unique identification of activity status";},
+					{name = "id"; sqlType = INTEGER; nullable = false;comment = "unique identifier for employee";},
+					{name = "activity"; sqlType = SHORTTEXT; length = 100; nullable = false;comment = "activity";},
+					{name = "calWk"; sqlType = SHORTTEXT; length = 2; nullable = false;comment = "unique identification of activity WK";},
+					{name = "calYr"; sqlType = SHORTTEXT; length = 4; nullable = false;comment = "unique identification of activity Yr";}
+			];
+table.primaryKey.pkcolumns = ["activityStatusID"];
+
+
+					

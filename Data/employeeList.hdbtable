@@ -1,0 +1,11 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [
+					{name = "listID"; sqlType = INTEGER; nullable = false;comment = "unique identification of a employee";},
+					{name = "iNumber"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "employee number";},
+					{name = "name"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "name of the employee";},
+					{name = "team"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "team of the employee";},
+					{name = "email"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "email of the employee";}
+					
+				];
+table.primaryKey.pkcolumns = ["listID"];

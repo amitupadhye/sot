@@ -1,0 +1,7 @@
+service namespace "skillOverviewTool" { 
+
+"sot_schema"."sot.Data::trainingPlan"
+
+      as "trainingplan";
+
+}

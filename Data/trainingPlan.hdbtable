@@ -1,0 +1,10 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "tpid"; sqlType = INTEGER; nullable = false;comment = "unique identification of training plan";},
+					{name = "iNumber"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "employee iNumber";},
+					{name = "trainingActivity"; sqlType = SHORTTEXT; length = 200; nullable = false;comment = "training activity";},
+					{name = "calWk"; sqlType = SHORTTEXT; length = 2; nullable = false;comment = "unique identification of activity WK";},
+					{name = "calYr"; sqlType = SHORTTEXT; length = 4; nullable = false;comment = "unique identification of activity Yr";}			
+			];
+table.primaryKey.pkcolumns = ["tpid"];

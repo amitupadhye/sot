@@ -1,0 +1,8 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "skillsStatusID"; sqlType = INTEGER; nullable = false;comment = "unique identification of employee skills";},
+					{name = "id"; sqlType = INTEGER; nullable = false;comment = "unique identifier for employee";},
+					{name = "skillID"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "Skill identification";}
+				];
+table.primaryKey.pkcolumns = ["skillsStatusID"];

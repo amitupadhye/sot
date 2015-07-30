@@ -1,0 +1,19 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 	
+					{name = "feedbackStatusID"; sqlType = INTEGER; nullable = false;comment = "unique identifier for a feedback";},
+					{name = "iNumber"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "employee iNumber";},
+					{name = "coachID"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "unique identifier for a feedback";},
+					{name = "dateStamp"; sqlType = DATE; nullable = false;comment = "timestamp when feedback was added to the database";},
+					{name = "task"; sqlType = SHORTTEXT; length = 200; nullable = false;comment = "interntask";},
+					{name = "Feedback1Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 1";},
+					{name = "Feedback2Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 2";},
+					{name = "Feedback3Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 3";},
+					{name = "Feedback4Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 4";},
+					{name = "Feedback5Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 5";},
+					{name = "Feedback6Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 6";},
+					{name = "Feedback7Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 7";},
+					{name = "Feedback8Rating"; sqlType = INTEGER; nullable = false;comment = "FeedbackRating 8";},
+					{name = "FeedbackRemark"; sqlType = SHORTTEXT; length = 1000; nullable = false;comment = "FeedbackRemarks";}	
+				];
+table.primaryKey.pkcolumns = ["feedbackStatusID"] ;

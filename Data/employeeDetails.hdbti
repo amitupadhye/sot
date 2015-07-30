@@ -1,0 +1,7 @@
+import = [ { 
+				hdbtable = "sot.Data::employeeDetails";
+				schema = "sot_schema";
+				file = "sot.Data:employeeDetails.csv"; 
+				header = false;
+				
+		} ];

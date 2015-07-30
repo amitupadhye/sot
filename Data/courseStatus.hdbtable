@@ -1,0 +1,10 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+					{name = "courseStatusID"; sqlType = INTEGER; nullable = false;comment = "unique identification of employee course";},
+					{name = "id"; sqlType = INTEGER; nullable = false;comment = "unique identifier for employee";},
+					{name = "collegeName"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "name of the college";},	
+					{name = "courseTaken"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "course taken";},
+					{name = "collegeWebsite"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "website of the course";}
+				];
+table.primaryKey.pkcolumns = ["courseStatusID"];

@@ -1,0 +1,912 @@
+1,1,Induction Week,3,2014
+2,1,EarlyWatch-SAPTECH,4,2014
+3,1,EarlyWatch-UADM315,5,2014
+4,1,Coached EW delivery ,6,2014
+5,1,Coached EW delivery ,7,2014
+6,1,Revision and Exams ,8,2014
+7,1,BC400 Fundamentals ,9,2014
+8,1,Oracle workshops,10,2014
+9,1,ABAP Silver Cert,11,2014
+10,1,Dev ramp up,12,2014
+11,1,Innojam ,13,2014
+12,1,Innojam ,14,2014
+13,1,BPPO training,15,2014
+14,1,Internal Project,16,2014
+15,1,Internal Project,17,2014
+16,1,Internal Project,18,2014
+17,1,Internal Project,19,2014
+18,1,LEAVE,20,2014
+19,1,GA Training,21,2014
+20,1,HANA Training ,22,2014
+21,1,HANA Training ,23,2014
+22,1,DR_ANA_EMEA,24,2014
+23,2,Induction Week,3,2014
+24,2,EarlyWatch-SAPTECH,4,2014
+25,2,EarlyWatch-UADM315,5,2014
+26,2,Coached EW delivery ,6,2014
+27,2,Coached EW delivery ,7,2014
+28,2,Revision and Exams ,8,2014
+29,2,BC400 Fundamentals ,9,2014
+30,2,Oracle workshops,10,2014
+31,2,ABAP Silver Cert,11,2014
+32,2,Dev ramp up,12,2014
+33,2,Innojam ,13,2014
+34,2,Innojam ,14,2014
+35,2,BPPO training,15,2014
+36,2,Open SAP Mobile app dev ,16,2014
+37,2,EGI rampup,17,2014
+38,2,EGI rampup,18,2014
+39,2,EGI rampup,19,2014
+40,2,Attend Afaria EGI ,20,2014
+41,2,EGI rampup,21,2014
+42,2,HANA Training ,22,2014
+43,2,HANA Training ,23,2014
+44,2,RP & RDS for Mob/UX,24,2014
+45,3,Induction Week,3,2014
+46,3,EarlyWatch-SAPTECH,4,2014
+47,3,EarlyWatch-UADM315,5,2014
+48,3,Coached EW delivery ,6,2014
+49,3,Coached EW delivery ,7,2014
+50,3,Revision and Exams ,8,2014
+51,3,BC400 Fundamentals ,9,2014
+52,3,Oracle workshops,10,2014
+53,3,ABAP Silver Cert,11,2014
+54,3,Dev ramp up,12,2014
+55,3,Innojam ,13,2014
+56,3,Innojam ,14,2014
+57,3,BPPO training,15,2014
+58,3,Open SAP Mobile app dev ,16,2014
+59,3,MCC Processes & Assign Mobile DR,17,2014
+60,3,Internal Project,18,2014
+61,3,Internal Project,19,2014
+62,3,Attend Mobile Development EGI ,20,2014
+63,3,Internal Project,21,2014
+64,3,HANA Training ,22,2014
+65,3,HANA Training ,23,2014
+66,3,RP & RDS for Mob/UX,24,2014
+67,4,Induction Week,5,2014
+68,4,EarlyWatch-SAPTECH,6,2014
+69,4,EarlyWatch-UADM315,7,2014
+70,4,Coached EW delivery ,8,2014
+71,4,Coached EW delivery ,9,2014
+72,4,Coached EW delivery ,10,2014
+73,4,Revision and Exams ,11,2014
+74,4,Oracle workshops,12,2014
+75,4,BC400 Fundamentals ,13,2014
+76,4,ABAP Silver Cert,14,2014
+77,4,BPPO training,15,2014
+78,4,BPPO training,16,2014
+79,4,BPPO training,17,2014
+80,4,BPPO training,18,2014
+81,4,BPPO training,19,2014
+82,4,BPPO training,20,2014
+83,4,NA,21,2014
+84,4,HANA Training ,22,2014
+85,4,LEAVE,23,2014
+86,4,CRM Rampup,24,2014
+87,4,LEAVE,25,2014
+88,4,Innojam ,26,2014
+89,5,Induction Week,5,2014
+90,5,EarlyWatch-SAPTECH,6,2014
+91,5,EarlyWatch-UADM315,7,2014
+92,5,Coached EW delivery ,8,2014
+93,5,Coached EW delivery ,9,2014
+94,5,Coached EW delivery ,10,2014
+95,5,Revision and Exams ,11,2014
+96,5,Oracle workshops,12,2014
+97,5,BC400 Fundamentals ,13,2014
+98,5,ABAP Silver Cert,14,2014
+99,5,BPPO training,15,2014
+100,5,BPPO training,16,2014
+101,5,EGI rampup,17,2014
+102,5,NA,18,2014
+103,5,mobile platform presentation ,19,2014
+104,5,NA,20,2014
+105,5,NA,21,2014
+106,5,HANA Training ,22,2014
+107,5,LEAVE,23,2014
+108,5,RP & RDS for Mob/UX,24,2014
+109,5,LEAVE,25,2014
+110,5,LEAVE,26,2014
+111,6,Induction Week,15,2014
+112,6,EarlyWatch-SAPTECH,16,2014
+113,6,EarlyWatch-UADM315,17,2014
+114,6,NA,18,2014
+115,6,Coached EW delivery ,19,2014
+116,6,NA,20,2014
+117,6,NA,21,2014
+118,6,NA,22,2014
+119,6,ABAP Silver Cert,23,2014
+120,6,BPPO training,24,2014
+121,6,NA,25,2014
+122,6,Innojam ,26,2014
+123,7,Induction Week,15,2014
+124,7,EarlyWatch-SAPTECH,16,2014
+125,7,EarlyWatch-UADM315,17,2014
+126,7,NA,18,2014
+127,7,Coached EW delivery ,19,2014
+128,7,NA,20,2014
+129,7,NA,21,2014
+130,7,NA,22,2014
+131,7,ABAP Silver Cert,23,2014
+132,7,BPPO training,24,2014
+133,7,NA,25,2014
+134,7,Innojam ,26,2014
+135,8,Induction Week,15,2014
+136,8,EarlyWatch-SAPTECH,16,2014
+137,8,EarlyWatch-UADM315,17,2014
+138,8,NA,18,2014
+139,8,Coached EW delivery ,19,2014
+140,8,NA,20,2014
+141,8,NA,21,2014
+142,8,NA,22,2014
+143,8,ABAP Silver Cert,23,2014
+144,8,BPPO training,24,2014
+145,8,NA,25,2014
+146,8,Innojam ,26,2014
+147,9,Induction Week,15,2014
+148,9,EarlyWatch-SAPTECH,16,2014
+149,9,EarlyWatch-UADM315,17,2014
+150,9,NA,18,2014
+151,9,Coached EW delivery ,19,2014
+152,9,NA,20,2014
+153,9,NA,21,2014
+154,9,NA,22,2014
+155,9,ABAP Silver Cert,23,2014
+156,9,TPO training,24,2014
+157,9,NA,25,2014
+158,9,Innojam ,26,2014
+159,11,Induction Week,3,2014
+160,11,EarlyWatch-SAPTECH,4,2014
+161,11,EarlyWatch-UADM315,5,2014
+162,11,Coached EW delivery ,6,2014
+163,11,Coached EW delivery ,7,2014
+164,11,Revision and Exams ,8,2014
+165,11,BC400 Fundamentals ( Krishanthi ),9,2014
+166,11,Oracle workshops ( Dani ),10,2014
+167,11,ABAP Silver Cert (Aaron),11,2014
+168,11,ARSD,12,2014
+169,11,ARSD  (Welcome 101 lite Fri 28th March 9-13.30),13,2014
+170,11,ARD,14,2014
+171,11,ARSD,15,2014
+172,11,ARSD,16,2014
+173,11,ARSD,17,2014
+174,11,ARSD,18,2014
+175,11,ARSD,19,2014
+176,11,73263108 EWC Off 15 &16th,20,2014
+177,11,NA,21,2014
+178,11,Hana Training,22,2014
+179,11,HANA Practical/Exam,23,2014
+180,11,BPPO TRG,24,2014
+181,11,NA,25,2014
+182,11,off 23rd June INNOJAM 26th & 27th,26,2014
+183,11,Coffee Corner thurs 3rd 11am,27,2014
+184,11,Last week,28,2014
+185,12,Induction Week,3,2014
+186,12,EarlyWatch-SAPTECH,4,2014
+187,12,EarlyWatch-UADM315,5,2014
+188,12,Coached EW delivery ,6,2014
+189,12,Coached EW delivery ,7,2014
+190,12,Revision and Exams ,8,2014
+191,12,BC400 Fundamentals ( Krishanthi ),9,2014
+192,12,Oracle workshops ( Dani ),10,2014
+193,12,ABAP Silver Cert (Aaron),11,2014
+194,12,ARSD (off tues 18th ),12,2014
+195,12,ADM resit Mon 24th ARSD  (Welcome 101 lite Fri 28th March 9-13.30),13,2014
+196,12,ARSD sick thurs 3rd,14,2014
+197,12,ARSD,15,2014
+198,12,ARSD,16,2014
+199,12,ARSD,17,2014
+200,12,ARSD,18,2014
+201,12,ARSD,19,2014
+202,12,ERP EW 73257969 and 73258262 Off Mon 12th,20,2014
+203,12,NA,21,2014
+204,12,Hana Training,22,2014
+205,12,HANA Practical/Exam,23,2014
+206,12,BPPO TRG,24,2014
+207,12,NA,25,2014
+208,12,INNOJAM 26th & 27th,26,2014
+209,12,Coffee Corner thurs 3rd 11am,27,2014
+210,12,Last week,28,2014
+211,13,Induction Week,3,2014
+212,13,EarlyWatch-SAPTECH,4,2014
+213,13,EarlyWatch-UADM315,5,2014
+214,13,Coached EW delivery ,6,2014
+215,13,Coached EW delivery ,7,2014
+216,13,Revision and Exams ,8,2014
+217,13,BC400 Fundamentals ( Krishanthi ),9,2014
+218,13,Oracle workshops ( Dani ),10,2014
+219,13,ABAP Silver Cert (Aaron),11,2014
+220,13,Dev ramp up & silver cert exam Thurs 20th,12,2014
+221,13,Innojam  (Welcome 101 lite Fri 28th March 9-13.30),13,2014
+222,13,Innojam,14,2014
+223,13,BPPO training,15,2014
+224,13,Open SAP Mobile app dev / Continue Project Volunteering  day thurs 17th,16,2014
+225,13,MCC Processes & Assign Mobile DR Customer 360 Reviews ,17,2014
+226,13,Continue Project,18,2014
+227,13,Continue Project,19,2014
+228,13,Attend Mobile Development EGI (Registration Required - delivered by Amabille,20,2014
+229,13,Off all week,21,2014
+230,13,Hana Training,22,2014
+231,13,HANA Practical/Exam,23,2014
+232,13,RP & RDS for Mob/UX,24,2014
+233,13,NA,25,2014
+234,13,INNOJAM 26th & 27th,26,2014
+235,13,Coffee Corner thurs 3rd 11am,27,2014
+236,13,Last week,28,2014
+237,14,Induction Week,3,2014
+238,14,EarlyWatch-SAPTECH,4,2014
+239,14,EarlyWatch-UADM315,5,2014
+240,14,Coached EW delivery ,6,2014
+241,14,Coached EW delivery ,7,2014
+242,14,Revision and Exams ,8,2014
+243,14,BC400 Fundamentals ( Krishanthi ),9,2014
+244,14,Oracle workshops ( Dani ),10,2014
+245,14,ABAP Silver Cert (Aaron),11,2014
+246,14,Dev ramp up & silver cert exam Thurs 20th,12,2014
+247,14,ABAP Fundamentals ( Wed 2hrs networking ) Off fri 28th,13,2014
+248,14,Off Mon 31st Innojam,14,2014
+249,14,BPPO training,15,2014
+250,14,Utilization tool project Volunteering day Tues 15th,16,2014
+251,14,Utilization tool project,17,2014
+252,14,Continue Project,18,2014
+253,14,Continue Project,19,2014
+254,14,Utilization tool project off 12th May,20,2014
+255,14,Continue Project,21,2014
+256,14,Hana Training,22,2014
+257,14,HANA Practical/Exam,23,2014
+258,14,DR_HANA_EMEA,24,2014
+259,14,NA,25,2014
+260,14,INNOJAM 26th & 27th,26,2014
+261,14,Coffee Corner thurs 3rd 11am - off fri (Last day ),27,2014
+262,14,Off all week last week,28,2014
+263,15,Induction Week,5,2014
+264,15,EarlyWatch-SAPTECH,6,2014
+265,15,EarlyWatch-UADM315,7,2014
+266,15,Coached EW delivery ,8,2014
+267,15,Coached EW delivery ,9,2014
+268,15,Coached EW delivery ,10,2014
+269,15,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+270,15,St Patricks Oracle workshops,12,2014
+271,15,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+272,15,ABAP Silver Cert,14,2014
+273,15,BPPO training,15,2014
+274,15,Open SAP Mobile app dev Volunteering day 15th off 16th  17th  18th,16,2014
+275,15,MCC Processes & Assign Mobile DR Customer 360 Reviews / Attend Critical Customer Calls (Sheila),17,2014
+276,15,Assign Mobile DR Customer 360 Reviews / Attend Critical Customer Calls (Sheila),18,2014
+277,15,Customer (Infrabel) mobile platform presentation research topics assigned ,19,2014
+278,15,Off 1/2 day pm 13 May oData/UI5 Development EMEA EGI Fiori/UI5 Workshop (Self Study,20,2014
+279,15,oData/UI5 Development EMEA EGI  Fiori/UI5 Workshop (Self Study ) Off FRI,21,2014
+280,15,Hana Training,22,2014
+281,15,HANA Practical/Exam,23,2014
+282,15,RP & RDS for Mob/UX,24,2014
+283,15,NA,25,2014
+284,15,INNOJAM 26th & 27th,26,2014
+285,15,Coffee Corner thurs 3rd 11am,27,2014
+286,15,NA,28,2014
+287,15,NA,29,2014
+288,15,NA,30,2014
+289,15,Last Week,31,2014
+290,16,Induction Week,15,2014
+291,16,SAPTEC,16,2014
+292,16,UADM315,17,2014
+293,16,NA,18,2014
+294,16,EW coached del GLS 73258667,19,2014
+295,16,MAY 16th network event 1,20,2014
+296,16,NA,21,2014
+297,16,NA,22,2014
+298,16,ABAP Silver Cert,23,2014
+299,16,TPO TRG,24,2014
+300,16,NA,25,2014
+301,16,INNOJAM 26th & 27th,26,2014
+302,17,Induction Week,15,2014
+303,17,SAPTEC,16,2014
+304,17,UADM315,17,2014
+305,17,NA,18,2014
+306,17,ALM roadmap workshop,19,2014
+307,17,MAY 16th network event 1,20,2014
+308,17,NA,21,2014
+309,17,NA,22,2014
+310,17,ABAP Silver Cert,23,2014
+311,17,Solman Config,24,2014
+312,17,NA,25,2014
+313,17,INNOJAM 26th & 27th,26,2014
+314,18,Induction Week,15,2014
+315,18,SAPTEC,16,2014
+316,18,UADM315,17,2014
+317,18,NA,18,2014
+318,18,EW coached del GLS 73259216,19,2014
+319,18,MAY 16th network event 1 - Wed 14th 1/2 day,20,2014
+320,18,Sick 21st 22nd,21,2014
+321,18,NA,22,2014
+322,18,ABAP Silver Cert,23,2014
+323,18,BPPO TRG,24,2014
+324,18,NA,25,2014
+325,18,INNOJAM 26th & 27th,26,2014
+326,19,Induction Week,15,2014
+327,19,SAPTEC,16,2014
+328,19,UADM315,17,2014
+329,19,NA,18,2014
+330,19,EW coached del GLS 73259216,19,2014
+331,19,MAY 16th network event 1,20,2014
+332,19,SAPTEC exam Wed 21 1pm,21,2014
+333,19,NA,22,2014
+334,19,ABAP Silver Cert,23,2014
+335,19,BPPO TRG,24,2014
+336,19,NA,25,2014
+337,19,INNOJAM 26th & 27th,26,2014
+338,20,Induction Week,15,2014
+339,20,SAPTEC,16,2014
+340,20,UADM315,17,2014
+341,20,Coached EW Delivery,18,2014
+342,20,EW coached del GLS 73259363,19,2014
+343,20,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+344,20,Oracle Workshop,21,2014
+345,20,ABAP Fundamentals,22,2014
+346,20,ABAP Silver Cert,23,2014
+347,20,BPPO TRG,24,2014
+348,20,BPPO Coached Delivery - Bilim Liac Sanayii,25,2014
+349,20,BPPO Coached delivery - Bilim Liac Sanayii ,26,2014
+350,21,Induction Week,15,2014
+351,21,SAPTEC,16,2014
+352,21,UADM315,17,2014
+353,21,NA,18,2014
+354,21,EW coached del GLS 73259363,19,2014
+355,21,MAY 16th network event 1,20,2014
+356,21,NA,21,2014
+357,21,NA,22,2014
+358,21,ABAP Silver Cert,23,2014
+359,21,TBC EP/PI,24,2014
+360,21,NA,25,2014
+361,21,INNOJAM 26th & 27th,26,2014
+362,22,Induction Week,15,2014
+363,22,SAPTEC,16,2014
+364,22,UADM315,17,2014
+365,22,NA,18,2014
+366,22,EW coached del GLS 73261369,19,2014
+367,22,MAY 16th network event 1,20,2014
+368,22,NA,21,2014
+369,22,NA,22,2014
+370,22,ABAP Silver Cert,23,2014
+371,22,BPPO TRG,24,2014
+372,22,NA,25,2014
+373,22,INNOJAM 26th & 27th,26,2014
+374,23,Induction Week,15,2014
+375,23,SAPTEC,16,2014
+376,23,UADM315,17,2014
+377,23,Coached EW Delivery,18,2014
+378,23,EW coached del GLS 73261369,19,2014
+379,23,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+380,23,BOBJ training (Dean Coleman),21,2014
+381,23,Hana Training (SICK 28th & 29th) ,22,2014
+382,23,HANA Practical/Exam,23,2014
+383,23,DR_ANA_EMEA,24,2014
+384,23,Business Objects Training,25,2014
+385,23,BOBJ report project + session if available ,26,2014
+386,10,Induction Week,3,2014
+387,10,EarlyWatch-SAPTECH,4,2014
+388,10,EarlyWatch-UADM315,5,2014
+389,10,Coached EW delivery ,6,2014
+390,10,Coached EW delivery ,7,2014
+391,10,Revision and Exams ,8,2014
+392,10,BC400 Fundamentals ( Krishanthi ),9,2014
+393,10,Oracle workshops ( Dani ),10,2014
+394,10,ABAP Silver Cert (Aaron),11,2014
+395,10,Dev ramp up & silver cert exam Thurs 20th,12,2014
+396,10,Innojam  (Welcome 101 lite Fri 28th March 9-13.30),13,2014
+397,10,Innojam,14,2014
+398,10,BPPO training,15,2014
+399,10,Test Systems Project  Off wed 16th - fri 18th,16,2014
+400,10,Test Systems Project,17,2014
+401,10,Continue Project off fri 2nd,18,2014
+402,10,bank holiday Off Tues 6th Continue Project,19,2014
+403,10,Test Systems Project,20,2014
+404,10,Continue Project,21,2014
+405,10,Hana Training,22,2014
+406,10,HANA Practical/Exam,23,2014
+407,10,DR_HANA_EMEA,24,2014
+408,10,NA,25,2014
+409,10,INNOJAM 26th & 27th,26,2014
+410,10,Coffee Corner thurs 3rd 11am,27,2014
+411,10,Last week,28,2014
+412,24,Induction Week,5,2014
+413,24,EarlyWatch-SAPTECH,6,2014
+414,24,EarlyWatch-UADM315,7,2014
+415,24,Coached EW delivery ,8,2014
+416,24,Coached EW delivery ,9,2014
+417,24,Coached EW delivery ,10,2014
+418,24,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+419,24,St Patricks Oracle workshops,12,2014
+420,24,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+421,24,ABAP Silver Cert. Off Fri 4th,14,2014
+422,24,BPPO Training,15,2014
+423,24,Volunteering Wed 16th -Coached delivery BPPO Inex Partners Oy ,16,2014
+424,24,Coached delivery BPPO Inex Partners Oy ,17,2014
+425,24,NA,18,2014
+426,24,BPPO 73264892 TURK HAVA YOLLARI A.O Silvercert resit 8th May,19,2014
+427,24,BPPO 73264892 TURK HAVA YOLLARI A.O,20,2014
+428,24,NA,21,2014
+429,24,Hana Training,22,2014
+430,24,HANA Practical/Exam,23,2014
+431,24,DR_HANA_EMEA,24,2014
+432,24,Off 18th-20th,25,2014
+433,24,Off 23rd,26,2014
+434,24,Coffee Corner thurs 3rd 11am,27,2014
+435,24,NA,28,2014
+436,24,NA,29,2014
+437,24,NA,30,2014
+438,24,Last Week,31,2014
+439,25,Induction Week,5,2014
+440,25,EarlyWatch-SAPTECH,6,2014
+441,25,EarlyWatch-UADM315,7,2014
+442,25,Coached EW delivery ,8,2014
+443,25,Coached EW delivery off thurs & fri 6th & 7th,9,2014
+444,25,Coached EW delivery ,10,2014
+445,25,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+446,25,St Patricks Oracle workshops SAPTEC resit thurs 20th,12,2014
+447,25,ADM resit Mon 24th ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+448,25,ABAP Silver Cert,14,2014
+449,25,PI Training & Delivery Off thurs 10th & 11th,15,2014
+450,25,Volunteering 16th,16,2014
+451,25,Java and EP Training (Off Tues & 1.2 day Wed ) ,17,2014
+452,25,NA,18,2014
+453,25,EP 73253016 GLS Cap Gemini ,19,2014
+454,25,EW 73264447 Electrolux It sol  Sick Mon & Tues,20,2014
+455,25,NA,21,2014
+456,25,Off Mon 26th,22,2014
+457,25,Classic EP/PI sessions,23,2014
+458,25,TBC EP/PI,24,2014
+459,25,NA,25,2014
+460,25,INNOJAM 26th & 27th,26,2014
+461,25,Coffee Corner thurs 3rd 11am,27,2014
+462,25,NA,28,2014
+463,25,NA,29,2014
+464,25,NA,30,2014
+465,25,Last Week,31,2014
+466,26,Induction Week,5,2014
+467,26,EarlyWatch-SAPTECH,6,2014
+468,26,EarlyWatch-UADM315,7,2014
+469,26,Coached EW delivery ,8,2014
+470,26,Coached EW delivery ,9,2014
+471,26,Coached EW delivery ,10,2014
+472,26,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+473,26,St Patricks Oracle workshops,12,2014
+474,26,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+475,26,ABAP Silver Cert,14,2014
+476,26,BPPO training,15,2014
+477,26,Open SAP Mobile app dev. Volunteering 16th Off 18th,16,2014
+478,26,MCC Processes & Assign Mobile DR Customer 360 Reviews ,17,2014
+479,26,NA,18,2014
+480,26,Silvercert resit 8th May Off 6th - Customer (Infrabel) mobile platform presentation,19,2014
+481,26,Attend Mobile Development EGI,20,2014
+482,26,Off 19th - 21st  off sick,21,2014
+483,26,Off sick ,22,2014
+484,26,Classic EP/PI sessions,23,2014
+485,26,RP & RDS for Mob/UX,24,2014
+486,26,NA,25,2014
+487,26,INNOJAM 26th & 27th,26,2014
+488,26,Coffee Corner thurs 3rd 11am,27,2014
+489,26,NA,28,2014
+490,26,NA,29,2014
+491,26,NA,30,2014
+492,26,Last Week,31,2014
+493,27,Induction Week,5,2014
+494,27,EarlyWatch-SAPTECH,6,2014
+495,27,EarlyWatch-UADM315,7,2014
+496,27,Coached EW delivery ,8,2014
+497,27,Coached EW delivery ,9,2014
+498,27,Coached EW delivery ,10,2014
+499,27,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+500,27,St Patricks Oracle workshops,12,2014
+501,27,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+502,27,ABAP Silver Cert,14,2014
+503,27,BPPO training,15,2014
+504,27,Volunteering 17th,16,2014
+505,27,Java and EP Training,17,2014
+506,27,Off thurs 1st & fri 2nd,18,2014
+507,27,EP Rampup - 73263831 - Chiesi Farmaceutici ,19,2014
+508,27,73254181 Warburtons Silvercert resit ,20,2014
+509,27,NA,21,2014
+510,27,NA,22,2014
+511,27,Classic EP/PI sessions,23,2014
+512,27,TBC EP/PI,24,2014
+513,27,NA,25,2014
+514,27,INNOJAM 26th & 27th,26,2014
+515,27,Coffee Corner thurs 3rd 11am,27,2014
+516,27,NA,28,2014
+517,27,NA,29,2014
+518,27,NA,30,2014
+519,27,Last Week,31,2014
+520,28,Induction Week,5,2014
+521,28,EarlyWatch-SAPTECH,6,2014
+522,28,EarlyWatch-UADM315,7,2014
+523,28,Coached EW delivery ,8,2014
+524,28,Coached EW delivery ,9,2014
+525,28,Coached EW delivery ,10,2014
+526,28,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+527,28,St Patricks Oracle workshops,12,2014
+528,28,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+529,28,ABAP Silver Cert,14,2014
+530,28,BPPO training,15,2014
+531,28,Coached delivery BPPO Inex Partners Oy ,16,2014
+532,28,Coached delivery BPPO Inex Partners Oy ,17,2014
+533,28,NA,18,2014
+534,28,BPPO coached del 73265384 - Inex Partners Silvercert resit 8th May Off Fri 9th May,19,2014
+535,28,Off all week,20,2014
+536,28,Off Mon & Tues,21,2014
+537,28,Hana Training,22,2014
+538,28,HANA Practical/Exam,23,2014
+539,28,DR_HANA_EMEA,24,2014
+540,28,NA,25,2014
+541,28,INNOJAM 26th & 27th,26,2014
+542,28,Coffee Corner thurs 3rd 11am,27,2014
+543,28,NA,28,2014
+544,28,NA,29,2014
+545,28,NA,30,2014
+546,28,Last Week,31,2014
+547,29,EarlyWatch-SAPTECH,6,2014
+548,29,EarlyWatch-UADM315,7,2014
+549,29,Coached EW delivery ,8,2014
+550,29,Coached EW delivery ,9,2014
+551,29,Coached EW delivery ,10,2014
+552,29,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+553,29,St Patricks Oracle workshops SAPTEC resit thurs 20th,12,2014
+554,29,ADM resit Mon 24th ABAP Fundamentals ( Wed 2hrs networking ). Off Fri 28th,13,2014
+555,29,Wed 2nd UADM315 & ABAP Silver Cert,14,2014
+556,29,PI Training & Delivery,15,2014
+557,29,Volunteering day Wed 16th,16,2014
+558,29,Java and EP Training,17,2014
+559,29,NA,18,2014
+560,29,EP / PI delivery Silvercert resit 8th May,19,2014
+561,29,Shadow GLS & EW. Silver cert Fri,20,2014
+562,29,Off fri 23rd,21,2014
+563,29,Off Mon 26th,22,2014
+564,29,Classic EP/PI sessions,23,2014
+565,29,TBC EP/PI,24,2014
+566,29,NA,25,2014
+567,29,INNOJAM 26th & 27th,26,2014
+568,29,Coffee Corner thurs 3rd 11am,27,2014
+569,29,NA,28,2014
+570,29,NA,29,2014
+571,29,NA,30,2014
+572,29,NA,31,2014
+573,29,NA,32,2014
+574,29,NA,33,2014
+575,29,NA,34,2014
+576,29,NA,35,2014
+577,29,NA,36,2014
+578,29,NA,37,2014
+579,29,Last Week,38,2014
+580,30,Induction Week,5,2014
+581,30,EarlyWatch-SAPTECH,6,2014
+582,30,EarlyWatch-UADM315,7,2014
+583,30,Coached EW delivery ,8,2014
+584,30,Coached EW delivery ,9,2014
+585,30,Coached EW delivery ,10,2014
+586,30,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+587,30,St Patricks Oracle workshops,12,2014
+588,30,ABAP Fundamentals ( Wed 2hrs networking ) Off fri 28th,13,2014
+589,30,ABAP Silver Cert,14,2014
+590,30,TPO training,15,2014
+591,30,TPO coached del MAPFRE volunteering day 17th,16,2014
+592,30,TPO coached del MAPFRE Off 22nd & 23rd,17,2014
+593,30,TPO coached del SERCO,18,2014
+594,30,TPO coached del SERCO Silvercert resit 8th May ,19,2014
+595,30,TPO coached delivery Serco,20,2014
+596,30,NA,21,2014
+597,30,Hana Training,22,2014
+598,30,HANA Practical/Exam,23,2014
+599,30,BO T4 Perf Nov,24,2014
+600,30,NA,25,2014
+601,30,INNOJAM 26th & 27th,26,2014
+602,30,Coffee Corner thurs 3rd 11am,27,2014
+603,30,NA,28,2014
+604,30,NA,29,2014
+605,30,NA,30,2014
+606,30,NA,31,2014
+607,30,NA,32,2014
+608,30,NA,33,2014
+609,30,NA,34,2014
+610,30,NA,35,2014
+611,30,NA,36,2014
+612,30,NA,37,2014
+613,30,Last Week,38,2014
+614,31,Induction Week,5,2014
+615,31,EarlyWatch-SAPTECH,6,2014
+616,31,EarlyWatch-UADM315,7,2014
+617,31,Coached EW delivery ,8,2014
+618,31,Coached EW delivery ,9,2014
+619,31,Coached EW delivery ,10,2014
+620,31,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+621,31,St Patricks Oracle workshops Off thurs 20th,12,2014
+622,31,ABAP Fundamentals ( Wed 2hrs networking ) Off thurs 27th,13,2014
+623,31,ABAP Silver Cert,14,2014
+624,31,BPPO training,15,2014
+625,31,Volunteering Mon 14th  Tues 101 lite coached delivery  BPPOSERVICOS ADMINISTRATIVOS Off Fri,16,2014
+626,31,Off Tues & Wed 22nd & 23rd coached del  BPPO PT PRO - SERVICOS ADMINISTRATIVOS.,17,2014
+627,31,sick 30th,18,2014
+628,31,BPPO coached del - 73264220 Birds Eye Silvercert resit 8th May,19,2014
+629,31,BPPO coached del - 73266005 - Diageo Great Britain Limited,20,2014
+630,31,Off fri 23rd,21,2014
+631,31,Hana Training,22,2014
+632,31,HANA Practical/Exam,23,2014
+633,31,DR_HANA_EMEA,24,2014
+634,31,NA,25,2014
+635,31,INNOJAM 26th & 27th,26,2014
+636,31,Coffee Corner thurs 3rd 11am,27,2014
+637,31,NA,28,2014
+638,31,NA,29,2014
+639,31,NA,30,2014
+640,31,Last Week,31,2014
+641,32,Induction Week,5,2014
+642,32,EarlyWatch-SAPTECH,6,2014
+643,32,EarlyWatch-UADM315,7,2014
+644,32,Coached EW delivery ,8,2014
+645,32,Coached EW delivery ,9,2014
+646,32,Coached EW delivery ,10,2014
+647,32,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+648,32,St Patricks Oracle workshops,12,2014
+649,32,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+650,32,ABAP Silver Cert,14,2014
+651,32,BPPO Training,15,2014
+652,32,Coached delivery BPPO Derbyshire County Council ,16,2014
+653,32,Coached delivery BPPO Derbyshire County Council 1/2 day 23rd,17,2014
+654,32,NA,18,2014
+655,32,BPPO coached del- 73258842 - Premier Foods Silvercert resit 8th May Off thurs 8th  9th,19,2014
+656,32,Off Mon 12th,20,2014
+657,32,NA,21,2014
+658,32,Hana Training,22,2014
+659,32,Off Tues   HANA Practical/Exam,23,2014
+660,32,DR_HANA_EMEA  1/2 day 10th,24,2014
+661,32,NA,25,2014
+662,32,INNOJAM 26th & 27th,26,2014
+663,32,Coffee Corner thurs 3rd 11am,27,2014
+664,32,NA,28,2014
+665,32,NA,29,2014
+666,32,NA,30,2014
+667,32,Last Week,31,2014
+668,33,Induction Week,5,2014
+669,33,EarlyWatch-SAPTECH,6,2014
+670,33,EarlyWatch-UADM315,7,2014
+671,33,Coached EW delivery ,8,2014
+672,33,Coached EW delivery ,9,2014
+673,33,Coached EW delivery ,10,2014
+674,33,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+675,33,St Patricks Oracle workshops,12,2014
+676,33,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+677,33,ABAP Silver Cert,14,2014
+678,33,BPPO training,15,2014
+679,33,BPPO coached del Zorlu Holding A.S  Volunteering day Tues 15th,16,2014
+680,33,BPPO coached del Zorlu Holding A.S ,17,2014
+681,33,NA,18,2014
+682,33,BBPO coached del 73257590 - Innothera Silvercert resit 8th May,19,2014
+683,33,BPPO coached del - 73257590 Innothera Off thurs 15th & fri 16th,20,2014
+684,33,Off all week,21,2014
+685,33,Hana Training,22,2014
+686,33,HANA Practical/Exam,23,2014
+687,33,DR_HANA_EMEA,24,2014
+688,33,NA,25,2014
+689,33,INNOJAM 26th & 27th,26,2014
+690,33,Coffee Corner thurs 3rd 11am,27,2014
+691,33,NA,28,2014
+692,33,NA,29,2014
+693,33,NA,30,2014
+694,33,Last Week,31,2014
+695,34,Induction Week,5,2014
+696,34,EarlyWatch-SAPTECH,6,2014
+697,34,EarlyWatch-UADM315,7,2014
+698,34,Coached EW delivery ,8,2014
+699,34,Coached EW delivery ,9,2014
+700,34,Coached EW delivery ,10,2014
+701,34,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+702,34,St Patricks Oracle workshops,12,2014
+703,34,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+704,34,ABAP Silver Cert,14,2014
+705,34,TPO training,15,2014
+706,34,TPO coached delivery Servihabitat Volunteering day thurs 17th,16,2014
+707,34,TPO coached delivery Servihabitat,17,2014
+708,34,TPO coached del UNITED,18,2014
+709,34,TPO coached del UNITED Silvercert resit 8th May,19,2014
+710,34,TPO coached delivery,20,2014
+711,34,NA,21,2014
+712,34,Hana Training,22,2014
+713,34,HANA Practical/Exam,23,2014
+714,34,BO T4 Perf Nov,24,2014
+715,34,NA,25,2014
+716,34,INNOJAM 26th & 27th,26,2014
+717,34,Off Mon Coffee Corner thurs 3rd 11am,27,2014
+718,34,Off all week,28,2014
+719,34,NA,29,2014
+720,34,NA,30,2014
+721,34,NA,31,2014
+722,34,NA,32,2014
+723,34,NA,33,2014
+724,34,NA,34,2014
+725,34,Off All week,35,2014
+726,34,NA,36,2014
+727,34,NA,37,2014
+728,34,Last Week,38,2014
+729,35,Induction Week,5,2014
+730,35,EarlyWatch-SAPTECH,6,2014
+731,35,EarlyWatch-UADM315,7,2014
+732,35,Coached EW delivery ,8,2014
+733,35,Coached EW delivery ,9,2014
+734,35,Coached EW delivery ,10,2014
+735,35,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+736,35,St Patricks Oracle workshops,12,2014
+737,35,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+738,35,ABAP Silver Cert,14,2014
+739,35,BPPO training,15,2014
+740,35,BPPO coached delivery Oy Woikoski Ab Tues 101 lite 9.30 -1  Volunteering Mon 14th,16,2014
+741,35,BPPO coached delivery Oy Woikoski Ab,17,2014
+742,35,NA,18,2014
+743,35,BBPO coached del 73260151 Oy Woikoski Ab Silvercert resit 8th May,19,2014
+744,35,BBPO coached del 73260151 Oy Woikoski Ab Silvercert resit Fri,20,2014
+745,35,NA,21,2014
+746,35,NA,22,2014
+747,35,BPPO Follow up,23,2014
+748,35,DR_ANA_EMEA,24,2014
+749,35,NA,25,2014
+750,35,INNOJAM 26th & 27th,26,2014
+751,35,Off Fri 4th ,27,2014
+752,35,NA,28,2014
+753,35,NA,29,2014
+754,35,NA,30,2014
+755,35,NA,31,2014
+756,35,NA,32,2014
+757,35,NA,33,2014
+758,35,Off all week,34,2014
+759,35,Off all week,35,2014
+760,35,NA,36,2014
+761,35,NA,37,2014
+762,35,Last Week,38,2014
+763,36,Induction Week,5,2014
+764,36,EarlyWatch-SAPTECH,6,2014
+765,36,EarlyWatch-UADM315,7,2014
+766,36,Coached EW delivery ,8,2014
+767,36,Coached EW delivery ,9,2014
+768,36,Coached EW delivery ,10,2014
+769,36,Revision and Exams ( SAPTEC Tues 11th and UADM315 Fri 14th @ 11 ),11,2014
+770,36,St Patricks Oracle workshops Off 18th,12,2014
+771,36,ABAP Fundamentals ( Wed 2hrs networking ),13,2014
+772,36,ABAP Silver Cert,14,2014
+773,36,TPO,15,2014
+774,36,TPO coached del GOBIERNO  Volunteering day thurs 17th,16,2014
+775,36,TPO coached del GOBIERNO ,17,2014
+776,36,TPO coached delivery,18,2014
+777,36,TPO coached del AGBAR Silvercert resit 8th May ,19,2014
+778,36,TPO coached del AGBAR,20,2014
+779,36,NA,21,2014
+780,36,Hana Training,22,2014
+781,36,HANA Practical/Exam,23,2014
+782,36,BO T4 Perf Nov  Off 12th & 13th,24,2014
+783,36,Holidays,25,2014
+784,36,INNOJAM 26th & 27th,26,2014
+785,36,Coffee Corner thurs 3rd 11am,27,2014
+786,36,Off fri,28,2014
+787,36,Off 18th,29,2014
+788,36,NA,30,2014
+789,36,NA,31,2014
+790,36,NA,32,2014
+791,36,NA,33,2014
+792,36,NA,34,2014
+793,36,NA,35,2014
+794,36,NA,36,2014
+795,36,NA,37,2014
+796,36,Last Week,38,2014
+797,37,Induction Week,15,2014
+798,37,SAPTEC,16,2014
+799,37,UADM315,17,2014
+800,37,Coached EW Delivery,18,2014
+801,37,EW coached del - TBC,19,2014
+802,37,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+803,37,Oracle Workshop/SAPTEC exam Wed 21 1pm,21,2014
+804,37,ABAP Fundamentals/Off 29th 30th,22,2014
+805,37,ABAP Silver Cert,23,2014
+806,37,DVM Rampup,24,2014
+807,37,DVM rampup EGI and CQC,25,2014
+808,37,DVM ,26,2014
+809,37,Off Mon 30th,27,2014
+810,38,Induction Week,15,2014
+811,38,SAPTEC,16,2014
+812,38,UADM315,17,2014
+813,38,Coached EW Delivery,18,2014
+814,38,EW coached del - TBC,19,2014
+815,38,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+816,38,Oracle Workshop/Off thus 22nd Fri 23rd,21,2014
+817,38,ADM315 29th 2pm,22,2014
+818,38,ABAP Silver Cert,23,2014
+819,38,BPPO TRG,24,2014
+820,38,BPPO coached delivery 73269367 First Scot Rail,25,2014
+821,38,Off 1/2 day wed BPPO coached delivery 73269367 First Scot Rail ,26,2014
+822,39,Induction Week,15,2014
+823,39,SAPTEC,16,2014
+824,39,UADM315,17,2014
+825,39,Coached EW Delivery,18,2014
+826,39,ALM roadmap workshop,19,2014
+827,39,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+828,39,Oracle Workshop,21,2014
+829,39,ABAP Fundamentals,22,2014
+830,39,ABAP Silver Cert,23,2014
+831,39,Solman Config,24,2014
+832,39,Sick mon & Tues Research Performance/Load Testing ,25,2014
+833,39,Research Performance / Load testing ,26,2014
+834,40,Induction Week,15,2014
+835,40,SAPTEC,16,2014
+836,40,UADM315,17,2014
+837,40,Coached EW Delivery,18,2014
+838,40,EW coached del 73247965 Samacor,19,2014
+839,40,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+840,40,BOBJ training (Dean Coleman)/SAPTEC exam Wed 21 1pm,21,2014
+841,40,Hana Training,22,2014
+842,40,HANA Practical/Exam,23,2014
+843,40,DR_ANA_EMEA,24,2014
+844,40,Business Objects,25,2014
+845,40,BOBJ report project & session if available ,26,2014
+846,20,BPPO Coached delivery -73270215 Grundfos Management A/S ,27,2014
+847,20, BPPO Coached delivery -73265686 SNCF ,28,2014
+848,20, BPPO 73265686 SNCF ,29,2014
+849,20, BPPO 73265686 SNCF ,30,2014
+850,20,Off all week,31,2014
+851,20, HANA Training ,32,2014
+852,20,NA,33,2014
+853,20, Fiori Black belt ,34,2014
+854,21,Induction Week,15,2014
+855,21,SAPTEC,16,2014
+856,21,UADM315,17,2014
+857,21,Coached EW Delivery,18,2014
+858,21,EW coached del GLS 73259363,19,2014
+859,21,Revision SAPTEC & UADM315 exams MAY 16th network event 1,20,2014
+860,21,Oracle Workshop,21,2014
+861,21,ABAP Fundamentals,22,2014
+862,21,ABAP Silver Cert,23,2014
+863,21,TBC EP/PI,24,2014
+864,21,Shadowing Robert Mullen on services,25,2014
+865,21,EP EW & Performance Opt EGI ,26,2014
+866,21,CQC sessions with Peter Roddy install EP as per howtoguide provided ,27,2014
+867,21, GA 73273130 Adveo ,28,2014
+868,21, PI EW Solar ,29,2014
+869,21, EP / PI EW Onninen ,30,2014
+870,21, PI file tranfer & encryption / decryption - off fri ,31,2014
+871,21, HANA Training ,32,2014
+872,21,NA,33,2014
+873,21, Decryption of the PGP scenario ,34,2014
+874,23,GV 7324709 Yara + BOBJ report project ,27,2014
+875,23, BOBJ report project ,28,2014
+876,23, BOBJ report project ,29,2014
+877,23,Off Mon BOBJ report project ,30,2014
+878,23, BOBJ GA Tri Petch & BOBJ project ,31,2014
+879,23,BOBJ project Off 5th & 6th,32,2014
+880,23, GV@ E.ON & BOBJ project ,33,2014
+881,23, EW@Hidrovias do Brasil + BOBJ project ,34,2014
+882,37, DVM - Uk Services ,28,2014
+883,37, DVM - 73273836 Caja De Compen ,29,2014
+884,37,Sick Mon -DVM,30,2014
+885,37, DVM - 73273836 Caja De Compen ,31,2014
+886,37,Off all week,32,2014
+887,37, DVM@Abarrotera ,33,2014
+888,37,DVM Cafam Off thurs & fri Last Week,34,2014
+889,38,BPPO coached delivery 73269367 First Scot Rail (1/2 day Wed ) ,27,2014
+890,38, BPPO coached delivery 73270958 NTN-SNR Roulements Annecy ,28,2014
+891,38, Off MON BPPO  73270958 NTN-SNR ,29,2014
+892,38,Off Mon - BPPO  73270958 NTN-SNR ,30,2014
+893,38, Off Thurs & Fri continue BPPO  73270958 NTN-SNR ,31,2014
+894,38,NA,32,2014
+895,38,HANA revision Off 1/2 day 12th,33,2014
+896,38,finishing session ,34,2014
+897,39,Research Performance / Load testing ,27,2014
+898,39, Research Performance / Load testing ,28,2014
+899,39, Research Performance / Load testing ,29,2014
+900,39, Research Performance / Load testing ,30,2014
+901,39, Research Performance / Load testing ,31,2014
+902,39,Off all week,32,2014
+903,39, Research Performance/Load Testing ,33,2014
+904,39, Load Testing Last Week,34,2014
+905,40,Analytics Deployment Room BOBJ report project ,27,2014
+906,40,BOBJ Report project Off Wed -fri,28,2014
+907,40, 73268854 EW  BOBJ report project ,29,2014
+908,40, MV 73256143 Abarrotera BOBJ report project ,30,2014
+909,40, Off Thurs & Fri BOBJ report project ,31,2014
+910,40, BOBJ project GV@Caverion Oyj ,32,2014
+911,40, EW@Boots GA@ Standard bank ,33,2014
+912,40, EW + GA ,34,2014

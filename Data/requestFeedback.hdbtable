@@ -1,0 +1,10 @@
+table.schemaName = "sot_schema";
+table.tableType = COLUMNSTORE;
+table.columns = [
+					{name = "feedbackID"; sqlType = INTEGER; nullable = false;comment = "unique identification of feedback";},
+					{name = "employee"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "employee about which feedback is provided";},
+					{name = "feedbackProvider"; sqlType = SHORTTEXT; length = 8; nullable = false;comment = "feedbackProvider";},
+					{name = "uCode"; sqlType = SHORTTEXT; length = 20; nullable = false;comment = "uniqueCode";} ,
+					{name = "feedbackStatus"; sqlType = SHORTTEXT; length = 50; nullable = false;comment = "feedback Status";}
+				];
+table.primaryKey.pkcolumns = ["feedbackID"];
